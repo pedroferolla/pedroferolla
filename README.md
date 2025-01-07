@@ -14,3 +14,12 @@ Tenho admiração por empresas como Tesla e SpaceX, dada a capacidade de inovaç
 Nos próximos doze meses pretendo estar assumindo projetos freelancers e, futuramente, estar em condições de desenvolver meus próprios sistemas, principalmente nas áreas da saúde e aprimoramento cultural.
 
 > "Pensar pequeno não dá o mesmo trabalho que pensar grande..."
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedroferolla&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroferolla&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=pedroferolla&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroferolla&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
